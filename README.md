@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently a student at the University of Southampton, studying mathematics with statistics.
 - 🌱 I am interested in data analytics and have completed a 1 year internship working as a data analyst intern at EA.
-- ⚡ Coding Languages: SQL, R and Python.
+- ⚡ Have experience with SQL, R and Python.
 
